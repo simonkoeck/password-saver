@@ -1,4 +1,4 @@
 # Password-Saver
 
 
-Simple Password Storage using AES-Encryption made with C#
+Simple Password Storage using Strong 256 Bit AES-Encryption made with C#
